@@ -1,6 +1,6 @@
 Extendable Hashing
 
-Reference: IBM Research Paper, October 2022
+Reference: IBM Research Paper
 
 Overview
 
@@ -48,19 +48,10 @@ Directory (global depth = 3)
 10  -> Bucket C
 11  -> Bucket D
 
-Usage
-
-Clone the repository:
-
-git clone <repository_url>
-cd extendable-hashing
 
 
 Build and Run:
 Adjust based on your implementation language:
-
-# Example for Python
-python main.py
 
 # Example for C++
 g++ -o extendable_hash main.cpp
